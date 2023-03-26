@@ -1,2 +1,2 @@
-# MERN-Chat-App
+# Chat-App
 Chat-App-socket.io
